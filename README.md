@@ -5,7 +5,7 @@ Linux SkinnyUpdate
 # Program name: skinny_updater.sh
 # OS: Linux (uses apt not yum)
 # Version: 0.0.3
-# Author: Paul Abel
+# Author: User3xample
 # State: it works.
 # Description: Creates log files and updates, upgrades, autoremoves & lists
 # Upgradables.
