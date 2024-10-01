@@ -17,6 +17,8 @@ Linux SkinnyUpdate
 
 # - Is there a way that we can incoporate the apt mark and unmark cmds to hold back a
 #   list of packages to use or skip maybe?
+# yes there is, this a really old basic script compared to what i ended up making for work.
+# i may take another crack at making this again one day.
 # - Config file?
  
 #----------------------------------------------------------------------------------------
